@@ -279,7 +279,4 @@ FREQUENCY = 1/(TOTAL TIME)
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
 
-```
-Name   : ARHAM S
-REG NO : 212222110005
-```
+
